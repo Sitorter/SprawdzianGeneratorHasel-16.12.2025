@@ -1,0 +1,14 @@
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /bin/Debug/net10.0/Sprawdzian
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /bin/Debug/net10.0/Sprawdzian.deps.json
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /bin/Debug/net10.0/Sprawdzian.runtimeconfig.json
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /bin/Debug/net10.0/Sprawdzian.dll
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /bin/Debug/net10.0/Sprawdzian.pdb
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.AssemblyInfoInputs.cache
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.AssemblyInfo.cs
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.csproj.CoreCompileInputs.cache
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.dll
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/refint/Sprawdzian.dll
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.pdb
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/Sprawdzian.genruntimeconfig.cache
+/Users/mixj/Desktop/Sprawdzian /Sprawdzian /obj/Debug/net10.0/ref/Sprawdzian.dll
